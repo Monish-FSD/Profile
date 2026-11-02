@@ -1,34 +1,64 @@
-<!-- Create a repo named exactly "Monish-FSD" (public) and put this as README.md -->
+<!-- Create a PUBLIC repo named exactly "Monish-FSD" and save this as README.md -->
 
-# Hi, I'm Monish Babu V M 👋
+<div align="center">
 
-Software Engineer (B.Tech CSBS, 2026) from Tamil Nadu. I build full-stack web applications with **Java, Spring Boot and React**, and I enjoy adding AI to real products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Monish%20Babu%20V%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20Developer&descAlignY=58&descSize=20" width="100%" alt="banner"/>
 
-## What I work with
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+AI-powered+web+apps+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+React.js+%E2%98%95;Open+to+internships+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p>
+  <a href="https://linkedin.com/in/monishbabu-vm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-five-sand-l8c1t9prz5.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:monishbabu023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## Featured projects
+</div>
 
-- **[Optivio](https://github.com/Monish-FSD/Optivio)**: AI-based business analytics platform (React, Spring Boot, Gemini API) · [Live](https://optivio-eight.vercel.app)
-- **Online Secure Test Conductor**: online exam platform with role-based dashboards and JWT auth (Spring Boot, MySQL) *(link the repo here once uploaded)*
-- **[Portfolio](https://github.com/Monish-FSD/Portfolio)**: my personal site · [Live](https://portfolio-five-sand-l8c1t9prz5.vercel.app)
+## 👋 About Me
 
-## Currently
+- 🎓 B.Tech **Computer Science and Business Systems** (2026)
+- 💼 **3 internships** (Gentrobyte AI Labs, ICANIO Technologies, Kevell Group)
+- 🛠️ I build full-stack apps with **Java, Spring Boot and React**, and add **AI (Gemini API)** to real products
+- 🌱 Currently: practising **DSA in Java** and learning **Zoho Creator / Deluge**
+- 📍 Tamil Nadu, India
 
-- Practising data structures and algorithms in Java daily
-- Learning Zoho Creator / Deluge
-- Looking for software engineering internship opportunities
+## 🧰 Tech Stack
 
-## Reach me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,py,html,css,bootstrap,mysql,mongodb,docker,aws,git,github,idea,vscode" alt="skills"/>
+</p>
 
-[LinkedIn](https://linkedin.com/in/monishbabu-vm) · monishbabu023@gmail.com
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[📊 Optivio](https://github.com/Monish-FSD/Optivio)** · [Live](https://optivio-eight.vercel.app) | AI-based business analytics: demand forecasting and natural-language data queries | React · Spring Boot · Gemini API |
+| **📝 Online Secure Test Conductor** | Exam platform with role-based dashboards, JWT auth and automated evaluation | Spring Boot · MySQL · JWT |
+| **[🌐 Portfolio](https://github.com/Monish-FSD/Portfolio)** · [Live](https://portfolio-five-sand-l8c1t9prz5.vercel.app) | My personal developer portfolio | HTML · CSS · JS |
+
+<!-- TODO: link Secure Test Conductor once the repo is uploaded -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Monish-FSD&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-FSD&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Monish-FSD&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+## 🏅 Certifications
+
+- Artificial Intelligence Foundation, Infosys Springboard
+- Python Foundation, Infosys Springboard
+- Prompt Engineering, Infosys Springboard
+
+## 📫 Let's Connect
+
+Open to **software development roles**. Feel free to reach out!
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+</div>
